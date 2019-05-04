@@ -15,3 +15,5 @@ For all other packages use
 `conda install --name myenv numpy`
 
 Click here for more on managing packages in [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html)
+
+[.gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore)
